@@ -1,0 +1,13 @@
+# Node artifacts
+client/node_modules
+server/node_modules
+
+# Builds
+client/build
+server/dist
+
+# Local database (SQLite)
+**/data.db
+
+# Misc
+.env
