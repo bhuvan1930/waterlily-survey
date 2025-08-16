@@ -5,3 +5,6 @@ export const questions: Question[] = [
   { id: 'gender', title: 'Gender', type: 'select', options: ['Male', 'Female', 'Other'] },
   { id: 'bio', title: 'Short Bio', description: 'Tell us about yourself.', type: 'text' },
 ];
+
+
+
